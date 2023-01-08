@@ -1,8 +1,9 @@
 .info--photo{
-    width:400px;
+    width:50%;
     border-radius: 20px 20px 20px 20px;
     object-fit: cover;
     text-align: center;
+    margin-top:25px;
 }
 .info{
     text-align: center;

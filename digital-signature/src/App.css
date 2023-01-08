@@ -3,5 +3,8 @@
   position: center;
   background-color:#1A1B21; 
   box-shadow: 0 4px 5px 0 rgba(0,0,0,0.2);
-
+  max-width:50%;
+  height: 1300px;
+  /* text-align:center; */
+  margin-left: 25%;
 }
