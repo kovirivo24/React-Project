@@ -1,0 +1,56 @@
+.info--photo{
+    width:400px;
+    border-radius: 20px 20px 20px 20px;
+    object-fit: cover;
+    text-align: center;
+}
+.info{
+    text-align: center;
+}
+.info--name{
+    height: 40px;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 35px;
+    font-weight: 700;
+    margin: 20px;
+}
+.info--student{
+    height: 40px;
+    color: #F3BF99;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    margin: 15px;
+    
+}
+.button--LinkedIn{
+    background: #5093E2;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    padding: 9px 18px 9px 18px;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left:20px;
+}
+.button--email{
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+    padding: 9px 25px 9px 25px;
+    justify-content: center;
+    align-items: center;
+    color:#374151;;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    margin-right:20px;
+    
+}
