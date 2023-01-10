@@ -1,5 +1,5 @@
 .info--photo{
-    width:50%;
+    width: 50%;
     border-radius: 20px 20px 20px 20px;
     object-fit: cover;
     text-align: center;
@@ -20,7 +20,6 @@
     color: #F3BF99;
     font-weight: 400;
     margin: 15px;
-    
 }
 .button {
     display: inline;
