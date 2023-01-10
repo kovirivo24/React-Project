@@ -22,28 +22,31 @@
     margin: 15px;
     
 }
-.button--LinkedIn{
-    background: #5093E2;
+.button {
+    display: inline;
+    margin: 0 20px;
     border-radius: 4px;
-    box-shadow: 0px 1px 5px rgba(205, 194, 194, 0.5);
-    padding: 9px 18px 9px 18px;
-    justify-content: center;
-    align-items: center;
-    color:white;
-    font-weight: 500;
-    font-size: 15px; 
-    margin-left:20px;
-}
-.button--email{
-    background: white;
-    border-radius: 4px;
-    box-shadow: 0px 1px 5px rgba(221, 210, 210, 0.5);
-    padding: 9px 25px 9px 25px;
-    justify-content: center;
-    align-items: center;
-    color:#374151;;
     font-weight: 500;
     font-size: 15px;
-    margin-right:20px;
-    
+    text-decoration: none;
+    transition: 0.25s;
+}
+.button:hover{
+    box-shadow: 0px 1px 5px rgba(205, 194, 194, 0.5);
+}
+.LinkedIn{
+    background: #5093E2;
+    padding: 9px 18px 9px 18px;
+    color:white;
+}
+.LinkedIn:hover{
+    padding: 11px 20px 11px 20px;
+}
+.email{
+    background: white;
+    padding: 9px 25px 9px 25px;
+    color:#374151;;   
+}
+.email:hover{
+    padding: 11px 27px 11px 27px;
 }
