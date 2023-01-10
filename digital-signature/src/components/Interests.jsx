@@ -6,8 +6,8 @@ export default function Interests(){
             <h1 className="interests"><b>Interests</b></h1>
             <ul className="interests-list">
                 <li>Volleyball, badminton, hiking, camping</li>
-                <li>Food expert, cooking, travelling</li>
-                <li>3D-printing, photography, videogaming</li>
+                <li>3D & 2D CAD Designs</li>
+                <li>3D-printing, photography, dancing</li>
             </ul>
        </main>
    )

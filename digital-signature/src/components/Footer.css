@@ -1,8 +1,13 @@
-.imgs>img{
+.imgs>a{
    color:#918E9B;
    
    padding: 5%;
+   
+}
+.imgs>a:hover{
+   transform: scale(1.3);
 }
 .imgs{
    text-align: center;
+   margin-top: 50px;
 }
